@@ -16,6 +16,6 @@ Contributions are always welcome! If you have a dataset that you think would be 
 
 ## License
 
-The datasets in this repository are available for anyone to use, modify, and distribute under the terms of the MIT license. See  `LICENSE`  for more information.
+The datasets in this repository are available for anyone to use, modify, and distribute.
 
 Happy coding!
